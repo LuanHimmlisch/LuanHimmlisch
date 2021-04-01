@@ -1,5 +1,6 @@
-# Hello 👋 I'm Luan Himmlisch!
-A mexican [TALL stack](https://github.com/LuanHimmlisch/webstack#tall) Junior Web Artisan and game developer!
+![LuanHimmlisch](https://github.com/LuanHimmlisch/luanhimmlisch.github.io/blob/main/img/cover.jpg)
+
+**A mexican [TALL stack](https://github.com/LuanHimmlisch/webstack#tall) Junior Web Artisan and game developer!**
 
 
 ## 🌎 Social
