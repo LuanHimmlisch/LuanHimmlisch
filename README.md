@@ -1,55 +1,28 @@
-![](https://github.com/LuanHimmlisch/luanhimmlisch.github.io/blob/main/img/cover.jpg)
-
-**A mexican [TALL stack](https://github.com/LuanHimmlisch/webstack#tall) Junior Web Artisan and game developer!**
-
+# Hello! I'm Luan Himmlisch...
+**a mexican web and game developer!**
 
 ## 🌎 Social
-* Web page: https://luanhimmlisch.github.io/
-* LinkedIn: https://www.linkedin.com/in/luancomun/
-* Twitter: https://twitter.com/luancomun
-* DEV: https://dev.to/luanhimmlisch
+* Check my portfolio at https://luanhimmlisch.github.io/
+* Play videogames at https://masterpose.dev
+* Business proposals I guess at https://www.linkedin.com/in/luancomun/
+* And what am I doing at https://twitter.com/luancomun
 
----
+## ✨ About me 
 
-## ✨ Skills 
+I started programming at the age of 9 using tools like RPG Maker VX Ace and Game Maker Studio. But when I really started to grow as a game developer when I found the **best** game engine: Construct 2. It has been a while from those times and I've learned a lot more on the way-
 
-Beetwen my constant learning I've obtained knowledge from different fields (web dev, game dev, graphic design).
-
-**Languages**
-
-![](https://img.shields.io/badge/HTML5-CE5C00?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-3465A4?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Javascript-C4A000?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks & engines**
-
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=black)
-![](https://img.shields.io/badge/React%20JS-56C8E7?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/Construct%202-555753?style=flat)
-![](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-
-**Tools**
-
-![](https://img.shields.io/badge/Linux-87CF3E?style=flat&logo=linux-mint&logoColor=white)
-![](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![](https://img.shields.io/badge/Premiere-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
-
-I use PHP commonly for my projects but also have experience with C# and Python. I'm currently learning Laravel framework.
-
-I have 7 years of experience of game development. I've used Construct 2, RPG Maker, Godot and most recently Unity to create various types of games.
-
----
+* I mainly code with PHP, Javascript and C#. But I know how to code on **Python** and **Java** but I'm always open to new languages.
+* I like using Javascript but PHP is my bet for **Backend** (sorry nodejs).
+* I really like **CSS** and vanilla **frontend**.
+* I try to make semantic **HTML** and accesible and SEO friendly websites.
+* I'm a game developer who uses Construct 2 and more recently **Unity 3D**. But I've used **Godot** in the past.
+* You know, I'm something of a ~~scientist~~ designer. I know how to use very well **Photoshop** and **Premier**, and I learned to have a very trained eye.
+* I like the very geek side of technology: cybersecurity, Torrent, Blockchain, etc. Although I'm not capable of working with those same technologies (_some day..._).
+* I like the creative side of programming aswell that its cold hard logic side so I would like to specialize in Rust or C++
 
 ## 📊 Stats
+
+_Someday I'll have good stats to brag on..._
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luanhimmlisch&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=luanhimmlisch&count_private=true&show_icons=true&theme=dark)
