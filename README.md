@@ -10,12 +10,12 @@
 
 ## 💻 About me
 
-I started programming at the age of 9 using tools like RPG Maker VX Ace and Game Maker Studio. But when I really started to grow as a game developer when I found the **best** game engine: Construct 2. It has been a while from those times and I've learned a lot more on the way-
+I started programming at the age of 9 using tools like RPG Maker VX Ace and Game Maker Studio. But when I really started to grow as a game developer when I found the **best** game engine: Construct 2. It has been a while from those times and I've learned a lot more on the way:
 
-* I mainly code with PHP, Javascript and C#. But I know how to code on **Python** and **Java** but I'm always open to new languages.
+* I mainly code with **PHP**, **Javascript** and **C#**. But I know how to code on **Python** and **Java** and I'm always open to learn new languages.
 * I really like **CSS** and vanilla **frontend**.
-* I'm a game developer who uses Construct 2 and more recently **Unity 3D**. But I've used **Godot** in the past.
-* I like the creative side of programming aswell that its cold hard logic side I'm into cybersecurity and would like to learn Rust or C++-
+* I'm a game developer who uses **Construct 2** and more recently **Unity 3D**. But I've used **Godot** in the past.
+* I like the creative side of programming aswell that its cold hard logic side. I'm into cybersecurity and would like to learn **Rust** or **C++**
 
 ## ✨ Favorite tech
 
