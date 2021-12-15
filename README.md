@@ -7,7 +7,7 @@
 * Play videogames at [Master Pose](https://masterpose.dev)
 * Business proposals I guess on [LinkedIn](https://www.linkedin.com/in/luancomun/)
 * Need a freelancer? I'm available at [Fiverr](https://www.fiverr.com/users/luanhimmlisch) and [Upwork](https://www.upwork.com/freelancers/~01706d18ebc97e899d)
-* Currently working as a part-time frontend developer at [Weblabor](https://github.com/weblabormx).
+* Working closely with [Weblabor](https://github.com/weblabormx) as an independent contractor regarding Frontend stuff on [Tiuswebs](https://tiuswebs.com/).
 
 ## 💻 About me
 <a href="https://github.com/anuraghazra/github-readme-stats">
