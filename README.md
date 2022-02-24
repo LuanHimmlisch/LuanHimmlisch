@@ -11,16 +11,16 @@
 
 ## 💻 About me
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhimmlisch&count_private=true&theme=dark" alt="Top Languages">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhimmlisch&count_private=true&theme=dark&layout=compact" alt="Top Languages">
 </a>
 
 <p align="left">
 I started programming at the age of 9 using tools like RPG Maker VX Ace and Game Maker Studio. But when I really started to grow as a game developer is when I found the **best** game engine: Construct 2. It has been a while from those times and I've learned a lot more on the way:
 
 * I mainly code with **PHP**, **Javascript** and **C#**. But I know how to code on **Python** and **Java** and I'm always open to learn new languages.
-* I really like **CSS** and vanilla **frontend**.
-* I'm a game developer who uses **Construct 2** and more recently **Unity 3D**. But I've used **Godot** in the past.
-* I like the creative side of programming as well that its cold logic side. I'm into cybersecurity and would like to learn **Rust** or **C++**
+* I really like vanilla **CSS** and [Tailwind](https://github.com/tailwindlabs).
+* I'm a game developer who uses **Construct 3** and more recently **Unity 3D**. But I've used **Godot** in the past.
+* I like the creative side of programming as well that its cold logic side. I'm into cybersecurity and the **realistic** implementations of crypto.
   </p>
 
 ## ✨ Favorite tech
