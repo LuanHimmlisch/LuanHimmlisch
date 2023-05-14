@@ -17,9 +17,10 @@ _Or maybe you need a freelancer? I'm available at [Fiverr](https://www.fiverr.co
 I started programming at the age of 9 using tools like RPG Maker VX Ace and Game Maker Studio. Ever since, I've experimented with a variety of game engines and programming languages and learned a lot on the way.
 
 * I mainly code with **PHP**, **Javascript** and **C#**. But I know how to code on **Python** and **Java** and I'm always open to learn new languages.
-* I like vanilla **CSS** but prefer to use [Tailwind CSS](https://github.com/tailwindlabs).
-* I'm a game developer who uses **Construct 3** and **Unity 3D**.
-* I'm a huge promoter of digital privacy and security and actively looking on the [de-Google movement](https://en.wikipedia.org/wiki/DeGoogle).
+* I'm well knowledge on vanilla Frontend. Making clear, accessible and structured CSS & HTML5.
+* I'm a game developer and designer, who uses **Construct 3** and **Unity 3D**.
+* I'm a full-time **Linux user** and don't have any problems on dipping my toes on **DevOps**.
+* I'm a huge promoter of **Open-Source**. The majority of my tech-stack is based around **FOSS** and ethical technologies.
 
 And currently I'm working at [Weblabor Mx](https://github.com/weblabormx) as a **Full Stack developer** using the [TALL Stack](https://tallstack.dev/).
 
