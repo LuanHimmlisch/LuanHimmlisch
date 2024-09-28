@@ -1,5 +1,11 @@
 # 👋 Hello there...
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/luanhimmlisch/luanhimmlisch/output/github-contribution-grid-snake.svg"
+      alt="Luan Himmlisch's Commit Graph"
+      style="width: 100%;" />
+</p>
+
 *You're most likely searching for one of these...*
 
 &gt; **[Personal portfolio 💼](https://luanhimmlisch.github.io/)**
@@ -12,7 +18,7 @@
 
 ## 💻 About me
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhimmlisch&count_private=true&theme=dark&layout=compact&exclude_repo=unach-data-python,unach-oop-java,unach-structured-cpp" alt="Top Languages">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhimmlisch&count_private=true&theme=dracula&layout=compact&exclude_repo=unach-data-python,unach-oop-java,unach-structured-cpp" alt="Top Languages">
 </a>
 
 <p align="left">
@@ -66,4 +72,5 @@ Currently I'm working as the **Tech Lead** of [Weblabor Mx](https://github.com/w
 
 _Are these "good stats"? Who knows..._
 
-![](https://github-readme-stats.vercel.app/api?username=luanhimmlisch&count_private=true&show_icons=true&theme=dark)
+![](https://streak-stats.demolab.com?user=LuanHimmlisch&theme=github-dark)
+![](https://github-readme-stats.vercel.app/api?username=luanhimmlisch&count_private=true&show_icons=true&theme=dracula)
