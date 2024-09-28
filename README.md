@@ -72,5 +72,7 @@ Currently I'm working as the **Tech Lead** of [Weblabor Mx](https://github.com/w
 
 _Are these "good stats"? Who knows..._
 
-![](https://streak-stats.demolab.com?user=LuanHimmlisch&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=luanhimmlisch&count_private=true&show_icons=true&theme=dracula)
+<p style="width: 100%; max-width: 900px">
+    <img align="center" style="width: 49%;" src="https://streak-stats.demolab.com?user=LuanHimmlisch&theme=dracula" alt="" />
+    <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=luanhimmlisch&count_private=true&show_icons=true&theme=dracula" alt="" />
+</p>
